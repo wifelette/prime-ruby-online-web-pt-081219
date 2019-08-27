@@ -1,3 +1,3 @@
 def prime?(integer)
-	(integer % 2).even? ? false : true
+	(integer % 2).even? ? true : false
 end
