@@ -1,7 +1,7 @@
 def prime?(integer)
 	if (integer/2).even?
-		true
+		return true
 	else
-		false
+		return false
 	end
 end
